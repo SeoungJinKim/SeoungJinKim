@@ -4,9 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=SeoungJinKim&fontSize=70&animation=twinkling)
 </div>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=SeoungJinKim&&style=flat-square" align="right" />
-</div>  
 <br/>
 <h3 align="center">✈️  Trip  ✈️</h3>
 <p align="center"> Countries that I've visited at least once </p>
