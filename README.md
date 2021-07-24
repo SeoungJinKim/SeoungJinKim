@@ -1,6 +1,8 @@
 
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=SeoungJinKim&fontSize=70&animation=twinkling)
+</div>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=SeoungJinKim&&style=flat-square" align="right" />
@@ -24,8 +26,6 @@
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
 </p>
 
-<br/>
-
 <h3 align="center">🔧 I've used 🔧</h3>
 
 <p align="center"> Tools that I've used at least once </p>
@@ -42,7 +42,6 @@
 </p>
 
 <br/>
-<br/>
 <div align="center" style="text-align:center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -52,23 +51,10 @@
 <br/>
 <br/>
 
-<h3 align="center">🪄 Blog 🪄</h3>
-
-<div align="center" style="text-align:center">
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cookncoding&&color=dark)](https://velog.io/@cookncoding) 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cookncoding)](https://github.com/SeoungJinKim/velog-readme-stats)
-
-  </div>
-
 <h3 align="center"> 👨‍💻 Me 👨‍🍳 </h3>
 <p align="center">
   <a href="https://velog.io/@cookncoding"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cookncoding"/></a>&nbsp
   <a href="mailto:dge03078@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dge03078@gmail.com"/></a>
-  <a href="https://github.com/SeoungJinKim" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 </p>
 <br>
 
